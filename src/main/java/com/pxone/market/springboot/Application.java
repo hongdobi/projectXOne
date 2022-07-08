@@ -1,4 +1,4 @@
-package com.pxone.book.springboot;
+package com.pxone.market.springboot;
 
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
